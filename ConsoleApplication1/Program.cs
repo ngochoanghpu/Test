@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello GitHub 7");
+            Console.Write("Hello GitHub Test");
         }
     }
 }
